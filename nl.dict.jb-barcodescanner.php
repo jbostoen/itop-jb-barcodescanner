@@ -17,6 +17,7 @@ Dict::Add('NL NL', 'Dutch', 'Nederlands', array(
     //	'SomeClass/Some:Fieldset' => 'Fieldset',
 	
 	'Class:BarcodeScanner' => 'Barcodescanner',
+	'Class:Model/Attribute:type/Value:BarcodeScanner' => 'Barcodescanner',
 	
 ));
 
