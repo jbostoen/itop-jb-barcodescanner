@@ -18,3 +18,5 @@ Adds a Barcode Scanner class, which is a subclass of a Physical Device
 XML:
 * add a new class
 
+## Credits
+* Icon: https://www.flaticon.com/free-icon/reader_4380036 - Flaticon License. Free for personal and commercial purpose with attribution. Attribution: Pixel Perfect
